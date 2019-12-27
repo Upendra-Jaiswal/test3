@@ -1,0 +1,2 @@
+housing.csv filter=lfs diff=lfs merge=lfs -text
+hindiDigits.csv filter=lfs diff=lfs merge=lfs -text
